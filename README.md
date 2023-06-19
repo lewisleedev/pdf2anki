@@ -22,7 +22,7 @@ pdf2anki is a Python program that converts PDF files to Anki decks. **The progra
 - Click the "Convert" button to start the conversion process.
 - Once the conversion is complete, the program will generate an Anki deck file with the same name as your deck, which you can import into Anki.
 
-Inside the template folder there's an example template pdf file I made for question/answer. It was made with Powerpoint in like 3 min. **Note that any pdf files will work the same and you can create your own pdf template as you wish.** Just make sure that top side will be the question size and the bottom side will be the answer side and that they should be the same height.
+Inside the template folder there's an example template pdf file I made for question/answer. It was made with Powerpoint in like 3 min. **Note that any pdf files will work the same and you can create your own pdf template as you wish.** Just make sure that top side will be the question size and the bottom side will be the answer side and that they are the same height.
 
 ## Limitation
 This is nowhere near a perfect solution. I simply wrote this for my personal use as I study. I can only say for sure that it works for me. 
